@@ -1,0 +1,16 @@
+{
+  "name": "frogpad",
+  "version": "0.0.0",
+  "authors": [
+    "iLan Epstein <ilan.epstein@frogdesign.com>"
+  ],
+  "license": "private",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
